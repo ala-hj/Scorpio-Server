@@ -1,0 +1,6 @@
+database:
+  username: "developer"
+  password: "scodartserver.2009"
+  host: "localhost"
+  port: 5432
+  databaseName: "scorpio"

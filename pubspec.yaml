@@ -1,0 +1,17 @@
+name: scorpio_server
+description: This is an open source project fully written in DART. The current futures are API services , DB , caching , serving files. Written by Ala Alhaj
+version: 0.45.1+BETA
+author: Ala Alhaj|Scorpio <alla.hajj@gmail.com>
+
+environment:
+  sdk: ">=2.2.0 <3.0.0"
+
+
+dependencies:
+  aqueduct: ^4.0.0-b1
+
+
+dev_dependencies:
+  test: ^1.0.0
+  aqueduct_test: any
+  

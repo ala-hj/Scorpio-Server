@@ -1,0 +1,6 @@
+username: "developer"
+password: "scodartserver.2009"
+host: "localhost"
+port: 5432
+databaseName: "scorpio"
+/Users/scardeath/Desktop/applications_own_business/thesis/databaseServer/postgresql.conf
